@@ -17,3 +17,13 @@ scikit-learn, pandas, seaborn, matplotlib
 3. Logistic Regression
 4. Predictions and Evaluations
 5. Conclusion
+
+
+# Instructions
+
+No inputs are required from the user. Simply run all cells in the jupiter notebook.
+
+
+# Author
+
+Lou Meziere
