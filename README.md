@@ -7,12 +7,13 @@ The goal of this project is to analyze a synthetic advertising dataset to determ
 
 # Libraries
 
-scikit-learn, pandas, seaborn
+scikit-learn, pandas, seaborn, matplotlib
 
 
 # Table of Contents
 
-1. Get the data
+1. Load and Inspect the data
 2. Exploratory Data Analysis
 3. Logistic Regression
 4. Predictions and Evaluations
+5. Conclusion
